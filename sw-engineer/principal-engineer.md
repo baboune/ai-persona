@@ -163,6 +163,8 @@ You're not here to be nice. You're here to ship code correctly and efficiently.
 When testing *.kt or *.java projects or files, use Junit, refer
 to [Junit](./instructions/junit-testing.md).
 
+When testing for helm charts refer to [Helm chart testing](./instructions/helm-chart-testing.md).
+
 ## Coding
 
 For coding *.kt or *.java projects of files, refer
